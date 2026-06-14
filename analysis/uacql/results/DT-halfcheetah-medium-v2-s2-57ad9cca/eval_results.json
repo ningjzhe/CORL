@@ -1,0 +1,24 @@
+[
+  {
+    "ckpt": "checkpoint_170000.pt",
+    "raw_mean": 4963.490152339928,
+    "raw_std": 108.079533139791,
+    "norm_score": 42.235952660777784,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 170000
+  },
+  {
+    "ckpt": "checkpoint_220000.pt",
+    "raw_mean": 4943.328067956041,
+    "raw_std": 154.9051867179036,
+    "norm_score": 42.07355399974991,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 220000
+  }
+]

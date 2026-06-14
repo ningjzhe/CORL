@@ -1,0 +1,7 @@
+{
+  "algo": "IQL",
+  "dataset": "hopper-medium-v2",
+  "seed": 1,
+  "best_norm_score": 68.02714158006661,
+  "total_time": 26827.204889297485
+}

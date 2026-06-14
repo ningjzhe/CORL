@@ -1,0 +1,13 @@
+[
+  {
+    "ckpt": "checkpoint_220000.pt",
+    "raw_mean": 3770.6533413941725,
+    "raw_std": 416.7157457709585,
+    "norm_score": 82.10181779444264,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 220000
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "algo": "DT",
+  "dataset": "halfcheetah-medium-v2",
+  "seed": 1,
+  "best_norm_score": 45.26733551025581,
+  "total_time": 33252.08697891235
+}

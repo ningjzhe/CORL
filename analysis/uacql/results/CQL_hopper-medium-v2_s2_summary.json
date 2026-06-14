@@ -1,0 +1,7 @@
+{
+  "algo": "CQL",
+  "dataset": "hopper-medium-v2",
+  "seed": 2,
+  "best_norm_score": 70.40253818358846,
+  "total_time": 81760.40628647804
+}

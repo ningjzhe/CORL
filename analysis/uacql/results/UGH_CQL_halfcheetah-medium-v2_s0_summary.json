@@ -1,0 +1,7 @@
+{
+  "algo": "UGH_CQL",
+  "dataset": "halfcheetah-medium-v2",
+  "seed": 0,
+  "best_norm_score": 44.9917326590104,
+  "total_time": 66506.06714630127
+}

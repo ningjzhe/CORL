@@ -1,0 +1,35 @@
+[
+  {
+    "ckpt": "checkpoint_125000.pt",
+    "raw_mean": 3373.1826233051315,
+    "raw_std": 675.2078133523956,
+    "norm_score": 73.44359073391709,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 125000
+  },
+  {
+    "ckpt": "checkpoint_330000.pt",
+    "raw_mean": 3062.5651288558465,
+    "raw_std": 703.0115697955258,
+    "norm_score": 66.67731419197828,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 330000
+  },
+  {
+    "ckpt": "checkpoint_385000.pt",
+    "raw_mean": 3187.790229008665,
+    "raw_std": 631.06588401524,
+    "norm_score": 69.40513111397169,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 385000
+  }
+]

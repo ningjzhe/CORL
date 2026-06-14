@@ -1,0 +1,35 @@
+[
+  {
+    "ckpt": "checkpoint_330000.pt",
+    "raw_mean": 1747.4999783169048,
+    "raw_std": 189.3664771892534,
+    "norm_score": 54.316577345695336,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "hopper-medium-v2",
+    "seed": 2,
+    "step": 330000
+  },
+  {
+    "ckpt": "checkpoint_560000.pt",
+    "raw_mean": 1800.124882743221,
+    "raw_std": 135.3025734067152,
+    "norm_score": 55.93353034272873,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "hopper-medium-v2",
+    "seed": 2,
+    "step": 560000
+  },
+  {
+    "ckpt": "checkpoint_625000.pt",
+    "raw_mean": 1769.9927411766453,
+    "raw_std": 186.43961370458447,
+    "norm_score": 55.00769005581042,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "hopper-medium-v2",
+    "seed": 2,
+    "step": 625000
+  }
+]

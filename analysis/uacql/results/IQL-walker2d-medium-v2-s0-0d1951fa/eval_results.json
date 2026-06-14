@@ -1,0 +1,68 @@
+[
+  {
+    "ckpt": "checkpoint_25000.pt",
+    "raw_mean": 2336.9126843170816,
+    "raw_std": 990.2945755269014,
+    "norm_score": 50.87020351462124,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 25000
+  },
+  {
+    "ckpt": "checkpoint_95000.pt",
+    "raw_mean": 1828.905605889549,
+    "raw_std": 1558.939914615671,
+    "norm_score": 39.80412887514437,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 95000
+  },
+  {
+    "ckpt": "checkpoint_165000.pt",
+    "raw_mean": 2975.262783077757,
+    "raw_std": 1514.438834832233,
+    "norm_score": 64.77558030753681,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 165000
+  },
+  {
+    "ckpt": "checkpoint_230000.pt",
+    "raw_mean": 2317.498052284205,
+    "raw_std": 1559.812570126645,
+    "norm_score": 50.447288605957354,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 230000
+  },
+  {
+    "ckpt": "checkpoint_285000.pt",
+    "raw_mean": 3983.8902491960566,
+    "raw_std": 62.57954240521058,
+    "norm_score": 86.74682302730477,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 285000
+  },
+  {
+    "ckpt": "checkpoint_605000.pt",
+    "raw_mean": 3546.487349377785,
+    "raw_std": 780.5587532889532,
+    "norm_score": 77.21874095432419,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 0,
+    "step": 605000
+  }
+]

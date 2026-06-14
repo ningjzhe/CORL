@@ -1,0 +1,79 @@
+[
+  {
+    "ckpt": "checkpoint_45000.pt",
+    "raw_mean": 5295.363027706301,
+    "raw_std": 92.74312674958077,
+    "norm_score": 44.90907462400313,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 45000
+  },
+  {
+    "ckpt": "checkpoint_105000.pt",
+    "raw_mean": 5412.930620241315,
+    "raw_std": 95.38713815223932,
+    "norm_score": 45.85604117986261,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 105000
+  },
+  {
+    "ckpt": "checkpoint_170000.pt",
+    "raw_mean": 5544.089321190987,
+    "raw_std": 77.47101218277297,
+    "norm_score": 46.912479443428495,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 170000
+  },
+  {
+    "ckpt": "checkpoint_230000.pt",
+    "raw_mean": 5544.584259135362,
+    "raw_std": 101.68920691867865,
+    "norm_score": 46.91646599848541,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 230000
+  },
+  {
+    "ckpt": "checkpoint_285000.pt",
+    "raw_mean": 5606.707727522517,
+    "raw_std": 90.35347231031986,
+    "norm_score": 47.41684918766323,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 285000
+  },
+  {
+    "ckpt": "checkpoint_595000.pt",
+    "raw_mean": 5640.647921958174,
+    "raw_std": 100.91819605356432,
+    "norm_score": 47.690225790321506,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 595000
+  },
+  {
+    "ckpt": "checkpoint_670000.pt",
+    "raw_mean": 5684.696968482133,
+    "raw_std": 37.91558771618653,
+    "norm_score": 48.04502572265205,
+    "status": "ok",
+    "algo": "IQL",
+    "dataset": "halfcheetah-medium-v2",
+    "seed": 2,
+    "step": 670000
+  }
+]

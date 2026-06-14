@@ -1,0 +1,13 @@
+[
+  {
+    "ckpt": "checkpoint_1000000.pt",
+    "raw_mean": 1598.123728488688,
+    "raw_std": 157.9571617374648,
+    "norm_score": 49.72684217223706,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "hopper-medium-v2",
+    "seed": 0,
+    "step": 1000000
+  }
+]

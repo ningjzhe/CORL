@@ -1,0 +1,7 @@
+{
+  "algo": "UGH_CQL",
+  "dataset": "walker2d-medium-v2",
+  "seed": 0,
+  "best_norm_score": 79.4760607537227,
+  "total_time": 62616.35389852524
+}

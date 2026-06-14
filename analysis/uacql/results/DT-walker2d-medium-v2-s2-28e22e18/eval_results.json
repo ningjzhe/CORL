@@ -1,0 +1,24 @@
+[
+  {
+    "ckpt": "checkpoint_780000.pt",
+    "raw_mean": 3600.4659482639754,
+    "raw_std": 302.26183361072344,
+    "norm_score": 78.39457339756086,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 780000
+  },
+  {
+    "ckpt": "checkpoint_1000000.pt",
+    "raw_mean": 3077.6797456323816,
+    "raw_std": 835.1719064520381,
+    "norm_score": 67.00656054404479,
+    "status": "ok",
+    "algo": "DT",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 1000000
+  }
+]

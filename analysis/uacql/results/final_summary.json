@@ -1,0 +1,233 @@
+{
+  "success": [
+    {
+      "algo": "DT",
+      "dataset": "hopper-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "DT",
+      "dataset": "hopper-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "DT",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "DT",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "DT",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "UA_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "DT",
+      "dataset": "walker2d-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "DT",
+      "dataset": "walker2d-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "IQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "IQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "IQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "IQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "UGH_CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "DT",
+      "dataset": "hopper-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "IQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "IQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "IQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "IQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 1
+    },
+    {
+      "algo": "DT",
+      "dataset": "walker2d-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "IQL",
+      "dataset": "hopper-medium-v2",
+      "seed": 2
+    },
+    {
+      "algo": "CQL",
+      "dataset": "walker2d-medium-v2",
+      "seed": 0
+    },
+    {
+      "algo": "CQL",
+      "dataset": "halfcheetah-medium-v2",
+      "seed": 2
+    }
+  ],
+  "failed": [],
+  "started_at": "2026-06-12T08:03:17.930772",
+  "total_time": 107742.58717274666,
+  "completed_at": "2026-06-13T13:59:00.517969"
+}

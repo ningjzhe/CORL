@@ -1,0 +1,7 @@
+{
+  "algo": "DT",
+  "dataset": "walker2d-medium-v2",
+  "seed": 2,
+  "best_norm_score": 84.62329683908632,
+  "total_time": 36687.82762503624
+}

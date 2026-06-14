@@ -1,0 +1,220 @@
+[
+  {
+    "ckpt": "checkpoint_140000.pt",
+    "status": "error",
+    "error": "name 'act_dim' is not defined",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 140000
+  },
+  {
+    "ckpt": "checkpoint_180000.pt",
+    "raw_mean": 2925.187166751609,
+    "raw_std": 572.0499141442605,
+    "norm_score": 63.68476773540056,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 180000
+  },
+  {
+    "ckpt": "checkpoint_230000.pt",
+    "raw_mean": 2421.084162009889,
+    "raw_std": 1100.7002527654088,
+    "norm_score": 52.703736735352805,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 230000
+  },
+  {
+    "ckpt": "checkpoint_265000.pt",
+    "raw_mean": 2046.114299281904,
+    "raw_std": 1269.3786308467888,
+    "norm_score": 44.5356527367079,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 265000
+  },
+  {
+    "ckpt": "checkpoint_340000.pt",
+    "raw_mean": 1787.471869520914,
+    "raw_std": 1264.4630607372328,
+    "norm_score": 38.90156503554794,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 340000
+  },
+  {
+    "ckpt": "checkpoint_370000.pt",
+    "raw_mean": 1677.735258922989,
+    "raw_std": 1129.0485785101948,
+    "norm_score": 36.51113865149299,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 370000
+  },
+  {
+    "ckpt": "checkpoint_415000.pt",
+    "raw_mean": 1254.331445624195,
+    "raw_std": 1069.7669613351695,
+    "norm_score": 27.288002991441452,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 415000
+  },
+  {
+    "ckpt": "checkpoint_465000.pt",
+    "raw_mean": 1204.3459156706572,
+    "raw_std": 1063.8653241184816,
+    "norm_score": 26.199152798503512,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 465000
+  },
+  {
+    "ckpt": "checkpoint_510000.pt",
+    "raw_mean": 1699.789909257806,
+    "raw_std": 1273.186210839107,
+    "norm_score": 36.99156189187007,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 510000
+  },
+  {
+    "ckpt": "checkpoint_560000.pt",
+    "raw_mean": 289.01710535060397,
+    "raw_std": 427.0364758584876,
+    "norm_score": 6.260263431019671,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 560000
+  },
+  {
+    "ckpt": "checkpoint_605000.pt",
+    "raw_mean": 964.0102176827659,
+    "raw_std": 1216.2048224816433,
+    "norm_score": 20.963846273450514,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 605000
+  },
+  {
+    "ckpt": "checkpoint_655000.pt",
+    "raw_mean": 1905.6963578254577,
+    "raw_std": 1192.68771709548,
+    "norm_score": 41.47688547368366,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 655000
+  },
+  {
+    "ckpt": "checkpoint_700000.pt",
+    "raw_mean": 840.2124311972077,
+    "raw_std": 739.1929290189697,
+    "norm_score": 18.267120964638444,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 700000
+  },
+  {
+    "ckpt": "checkpoint_750000.pt",
+    "raw_mean": 50.436696950681096,
+    "raw_std": 9.934772681435412,
+    "norm_score": 1.0631929196349843,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 750000
+  },
+  {
+    "ckpt": "checkpoint_795000.pt",
+    "raw_mean": 1398.0694605190633,
+    "raw_std": 1000.9376833477476,
+    "norm_score": 30.4190924366523,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 795000
+  },
+  {
+    "ckpt": "checkpoint_845000.pt",
+    "raw_mean": 1158.6625680528316,
+    "raw_std": 1118.2316626070067,
+    "norm_score": 25.20401836832029,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 845000
+  },
+  {
+    "ckpt": "checkpoint_890000.pt",
+    "raw_mean": 1635.2405157612147,
+    "raw_std": 760.1313623791522,
+    "norm_score": 35.58546257416511,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 890000
+  },
+  {
+    "ckpt": "checkpoint_935000.pt",
+    "raw_mean": 1385.3846632150298,
+    "raw_std": 673.4642906729554,
+    "norm_score": 30.14277559046274,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 935000
+  },
+  {
+    "ckpt": "checkpoint_980000.pt",
+    "raw_mean": 1975.8305391330446,
+    "raw_std": 1195.666708962284,
+    "norm_score": 43.00463994421329,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 980000
+  },
+  {
+    "ckpt": "checkpoint_1000000.pt",
+    "raw_mean": 1521.9637864848899,
+    "raw_std": 1273.2957350928139,
+    "norm_score": 33.117920694694156,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "walker2d-medium-v2",
+    "seed": 2,
+    "step": 1000000
+  }
+]

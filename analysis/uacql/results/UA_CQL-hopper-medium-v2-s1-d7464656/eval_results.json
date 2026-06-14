@@ -1,0 +1,220 @@
+[
+  {
+    "ckpt": "checkpoint_145000.pt",
+    "status": "error",
+    "error": "name 'act_dim' is not defined",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 145000
+  },
+  {
+    "ckpt": "checkpoint_185000.pt",
+    "raw_mean": 1403.4972724101358,
+    "raw_std": 152.23719938558355,
+    "norm_score": 43.746749003634,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 185000
+  },
+  {
+    "ckpt": "checkpoint_240000.pt",
+    "raw_mean": 1246.2836609816295,
+    "raw_std": 99.52749959047415,
+    "norm_score": 38.91620303029739,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 240000
+  },
+  {
+    "ckpt": "checkpoint_275000.pt",
+    "raw_mean": 1210.679767094896,
+    "raw_std": 111.31753616984832,
+    "norm_score": 37.82223766249667,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 275000
+  },
+  {
+    "ckpt": "checkpoint_355000.pt",
+    "raw_mean": 1353.8012626338764,
+    "raw_std": 183.1937579001244,
+    "norm_score": 42.2197892338384,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 355000
+  },
+  {
+    "ckpt": "checkpoint_380000.pt",
+    "raw_mean": 1391.3039681884734,
+    "raw_std": 198.3554754631453,
+    "norm_score": 43.372097495571644,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 380000
+  },
+  {
+    "ckpt": "checkpoint_430000.pt",
+    "raw_mean": 1359.652004113586,
+    "raw_std": 152.57193811569985,
+    "norm_score": 42.39955913695965,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 430000
+  },
+  {
+    "ckpt": "checkpoint_475000.pt",
+    "raw_mean": 1254.3965989588078,
+    "raw_std": 292.74074098969925,
+    "norm_score": 39.165481190893615,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 475000
+  },
+  {
+    "ckpt": "checkpoint_525000.pt",
+    "raw_mean": 1091.272354405135,
+    "raw_std": 434.2356558499595,
+    "norm_score": 34.15332508352844,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 525000
+  },
+  {
+    "ckpt": "checkpoint_575000.pt",
+    "raw_mean": 1437.6959147754035,
+    "raw_std": 142.15487999534048,
+    "norm_score": 44.79753660828265,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 575000
+  },
+  {
+    "ckpt": "checkpoint_620000.pt",
+    "raw_mean": 1551.0803508071845,
+    "raw_std": 179.92050618505436,
+    "norm_score": 48.281387185441076,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 620000
+  },
+  {
+    "ckpt": "checkpoint_665000.pt",
+    "raw_mean": 1406.7080049364201,
+    "raw_std": 275.9272242964513,
+    "norm_score": 43.84540198244021,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 665000
+  },
+  {
+    "ckpt": "checkpoint_710000.pt",
+    "raw_mean": 1203.6813194306865,
+    "raw_std": 537.5912364661255,
+    "norm_score": 37.60720333514564,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 710000
+  },
+  {
+    "ckpt": "checkpoint_760000.pt",
+    "raw_mean": 1407.5080366241875,
+    "raw_std": 217.86691780510483,
+    "norm_score": 43.8699837588702,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 760000
+  },
+  {
+    "ckpt": "checkpoint_810000.pt",
+    "raw_mean": 1401.7663597127334,
+    "raw_std": 173.42479092366673,
+    "norm_score": 43.693564974053736,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 810000
+  },
+  {
+    "ckpt": "checkpoint_855000.pt",
+    "raw_mean": 1330.5883561853784,
+    "raw_std": 221.39159530048966,
+    "norm_score": 41.50654938930227,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 855000
+  },
+  {
+    "ckpt": "checkpoint_900000.pt",
+    "raw_mean": 1340.7412911337474,
+    "raw_std": 148.32135200510638,
+    "norm_score": 41.81850850395371,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 900000
+  },
+  {
+    "ckpt": "checkpoint_945000.pt",
+    "raw_mean": 1475.6550306792822,
+    "raw_std": 246.52040040180637,
+    "norm_score": 45.963868536000525,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 945000
+  },
+  {
+    "ckpt": "checkpoint_990000.pt",
+    "raw_mean": 1388.1090406589012,
+    "raw_std": 229.366586057539,
+    "norm_score": 43.27393014114956,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 990000
+  },
+  {
+    "ckpt": "checkpoint_1000000.pt",
+    "raw_mean": 1408.310601420539,
+    "raw_std": 254.96669073313774,
+    "norm_score": 43.89464336760337,
+    "status": "ok",
+    "algo": "UA_CQL",
+    "dataset": "hopper-medium-v2",
+    "seed": 1,
+    "step": 1000000
+  }
+]

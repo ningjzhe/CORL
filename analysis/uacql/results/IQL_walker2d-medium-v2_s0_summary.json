@@ -1,0 +1,7 @@
+{
+  "algo": "IQL",
+  "dataset": "walker2d-medium-v2",
+  "seed": 0,
+  "best_norm_score": 88.17513498275565,
+  "total_time": 32097.460608243942
+}

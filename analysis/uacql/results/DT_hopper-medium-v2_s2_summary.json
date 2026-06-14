@@ -1,0 +1,7 @@
+{
+  "algo": "DT",
+  "dataset": "hopper-medium-v2",
+  "seed": 2,
+  "best_norm_score": 97.50696571003805,
+  "total_time": 35910.92085623741
+}
