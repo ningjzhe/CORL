@@ -4,7 +4,7 @@
 |-------|-------|
 | **Repository** | https://github.com/ningjzhe/CORL.git |
 | **Branch** | main |
-| **Commit** | _TBD — will be filled after first commit_ |
+| **Commit** | dd0cb9c (report assets); metadata commit updated below after push |
 
 ## Report assets paths (in repo)
 
