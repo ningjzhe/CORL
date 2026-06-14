@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.so
+.cache/
+.ipynb_checkpoints/
 
 # Environments
 .env
@@ -13,24 +15,29 @@ conda_envs/
 
 # Datasets
 datasets/
+/root/.d4rl/
 *.hdf5
 *.npz
 *.pkl
 
-# Checkpoints
-checkpoints/
+# Checkpoints and models
 *.pt
 *.pth
 *.ckpt
-
-# Logs
-logs/
-*.log
-*.out
-*.err
+checkpoints/
+**/checkpoints/
 
 # WandB
 wandb/
+**/wandb/
+
+# Logs
+logs/
+**/logs/
+*.log
+*.out
+*.err
+nohup.out
 
 # MuJoCo / D4RL cache
 .mujoco/
@@ -38,3 +45,12 @@ wandb/
 
 # System
 .DS_Store
+
+# Large archives
+*.tar.gz
+*.zip
+
+# Keep report assets (explicit allow — not matched by rules above)
+!report/assets/tables/*.csv
+!report/assets/tables/*.json
+!report/assets/figures/*.png

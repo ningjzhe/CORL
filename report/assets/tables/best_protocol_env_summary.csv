@@ -1,0 +1,13 @@
+Env,Method,Best 50-ep Mean ± Std,Final 50-ep Mean ± Std,Best Step Mean,N
+halfcheetah,standard_iql,47.05 ± 0.11,46.70 ± 0.03,77500,2
+halfcheetah,ensemble_mean,48.84 ± 0.14,48.65 ± 0.40,70000,2
+halfcheetah,iad_lambda_1.0,48.89 ± 0.05,48.89 ± 0.05,100000,2
+halfcheetah,shuffled_iad_lambda_1.0,49.08 ± 0.31,48.98 ± 0.44,87500,2
+hopper,standard_iql,46.35 ± 9.27,29.19 ± 8.18,72500,2
+hopper,ensemble_mean,67.58 ± 5.84,46.16 ± 18.50,70000,2
+hopper,iad_lambda_1.0,62.63 ± 1.48,45.41 ± 14.75,52500,2
+hopper,shuffled_iad_lambda_1.0,51.27 ± 24.95,37.47 ± 17.55,65000,2
+walker2d,standard_iql,81.72 ± 1.23,81.72 ± 1.23,100000,2
+walker2d,ensemble_mean,86.78 ± 4.11,83.96 ± 0.35,77500,2
+walker2d,iad_lambda_1.0,87.54 ± 2.79,78.10 ± 16.13,60000,2
+walker2d,shuffled_iad_lambda_1.0,87.02 ± 0.10,86.57 ± 0.54,97500,2

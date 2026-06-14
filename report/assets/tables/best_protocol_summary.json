@@ -1,0 +1,563 @@
+{
+  "n_runs": 24,
+  "per_run": [
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repA_ensemble_mean",
+      "rep": "A",
+      "method": "ensemble_mean",
+      "best_step": 100000,
+      "best_10ep": 49.0390030280427,
+      "best_50ep": 48.938439088982484,
+      "best_50ep_std": 0.7743930966646264,
+      "final_50ep": 48.938439088982484,
+      "final_50ep_std": 0.7743930966646264,
+      "gap_50ep": 0.0,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repA_iad_lambda_1.0",
+      "rep": "A",
+      "method": "iad_lambda_1.0",
+      "best_step": 100000,
+      "best_10ep": 48.833893849281324,
+      "best_50ep": 48.85452552454071,
+      "best_50ep_std": 0.6605947809529217,
+      "final_50ep": 48.85452552454071,
+      "final_50ep_std": 0.6605947809529217,
+      "gap_50ep": 0.0,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repA_shuffled_iad_lambda_1.0",
+      "rep": "A",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 100000,
+      "best_10ep": 49.422146755748834,
+      "best_50ep": 49.29406726470829,
+      "best_50ep_std": 0.8133624603845159,
+      "final_50ep": 49.29406726470829,
+      "final_50ep_std": 0.8133624603845159,
+      "gap_50ep": 0.0,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repA_standard_iql",
+      "rep": "A",
+      "method": "standard_iql",
+      "best_step": 80000,
+      "best_10ep": 47.026030757987016,
+      "best_50ep": 47.12950220195093,
+      "best_50ep_std": 0.6807149571609447,
+      "final_50ep": 46.67846407377458,
+      "final_50ep_std": 0.6763669608854088,
+      "gap_50ep": 0.45103812817635003,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repB_ensemble_mean",
+      "rep": "B",
+      "method": "ensemble_mean",
+      "best_step": 40000,
+      "best_10ep": 48.85010842666547,
+      "best_50ep": 48.740505915175966,
+      "best_50ep_std": 0.6255805212952952,
+      "final_50ep": 48.36850485095537,
+      "final_50ep_std": 0.5655562138069944,
+      "gap_50ep": 0.37200106422059775,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repB_iad_lambda_1.0",
+      "rep": "B",
+      "method": "iad_lambda_1.0",
+      "best_step": 100000,
+      "best_10ep": 49.14537084914652,
+      "best_50ep": 48.924047613335794,
+      "best_50ep_std": 0.6993759628220235,
+      "final_50ep": 48.924047613335794,
+      "final_50ep_std": 0.6993759628220235,
+      "gap_50ep": 0.0,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repB_shuffled_iad_lambda_1.0",
+      "rep": "B",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 75000,
+      "best_10ep": 49.07435345269154,
+      "best_50ep": 48.856495128496945,
+      "best_50ep_std": 0.6498365206768846,
+      "final_50ep": 48.66607118091751,
+      "final_50ep_std": 0.5612810980539946,
+      "gap_50ep": 0.1904239475794327,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "halfcheetah-medium-v2",
+      "run_name": "hc_repB_standard_iql",
+      "rep": "B",
+      "method": "standard_iql",
+      "best_step": 75000,
+      "best_10ep": 47.19829327650223,
+      "best_50ep": 46.96805816766531,
+      "best_50ep_std": 0.7369348928622327,
+      "final_50ep": 46.71812338650805,
+      "final_50ep_std": 0.7864026998734288,
+      "gap_50ep": 0.24993478115726475,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repA_ensemble_mean",
+      "rep": "A",
+      "method": "ensemble_mean",
+      "best_step": 55000,
+      "best_10ep": 76.47243672917148,
+      "best_50ep": 71.7151189066104,
+      "best_50ep_std": 19.241801861885243,
+      "final_50ep": 59.23470038708528,
+      "final_50ep_std": 17.23065250931824,
+      "gap_50ep": 12.480418519525116,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repA_iad_lambda_1.0",
+      "rep": "A",
+      "method": "iad_lambda_1.0",
+      "best_step": 55000,
+      "best_10ep": 67.37104086743614,
+      "best_50ep": 63.68138058309758,
+      "best_50ep_std": 23.881189131333016,
+      "final_50ep": 55.84366305417107,
+      "final_50ep_std": 12.878476404887321,
+      "gap_50ep": 7.837717528926511,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repA_shuffled_iad_lambda_1.0",
+      "rep": "A",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 55000,
+      "best_10ep": 64.87195397718111,
+      "best_50ep": 68.9145234984491,
+      "best_50ep_std": 18.14668046494069,
+      "final_50ep": 49.879985987789375,
+      "final_50ep_std": 16.753499585536524,
+      "gap_50ep": 19.034537510659725,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repA_standard_iql",
+      "rep": "A",
+      "method": "standard_iql",
+      "best_step": 70000,
+      "best_10ep": 60.37076614936859,
+      "best_50ep": 52.90354966036702,
+      "best_50ep_std": 21.00047413038525,
+      "final_50ep": 34.96718569463235,
+      "final_50ep_std": 18.860347787997117,
+      "gap_50ep": 17.93636396573467,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repB_ensemble_mean",
+      "rep": "B",
+      "method": "ensemble_mean",
+      "best_step": 85000,
+      "best_10ep": 70.02775631878211,
+      "best_50ep": 63.44980930737891,
+      "best_50ep_std": 25.532560691357737,
+      "final_50ep": 33.075497404267004,
+      "final_50ep_std": 15.7104082145474,
+      "gap_50ep": 30.374311903111902,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repB_iad_lambda_1.0",
+      "rep": "B",
+      "method": "iad_lambda_1.0",
+      "best_step": 50000,
+      "best_10ep": 54.932561555422446,
+      "best_50ep": 61.58349216567526,
+      "best_50ep_std": 22.654645691374004,
+      "final_50ep": 34.97961047671417,
+      "final_50ep_std": 13.333189847299387,
+      "gap_50ep": 26.60388168896109,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repB_shuffled_iad_lambda_1.0",
+      "rep": "B",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 75000,
+      "best_10ep": 32.95556639487565,
+      "best_50ep": 33.63316282150563,
+      "best_50ep_std": 5.97776394421422,
+      "final_50ep": 25.05773611745485,
+      "final_50ep_std": 1.7222555704796596,
+      "gap_50ep": 8.575426704050777,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "hopper-medium-v2",
+      "run_name": "hopper_repB_standard_iql",
+      "rep": "B",
+      "method": "standard_iql",
+      "best_step": 75000,
+      "best_10ep": 37.605909905847426,
+      "best_50ep": 39.787112129703544,
+      "best_50ep_std": 14.239605373935895,
+      "final_50ep": 23.403320666690412,
+      "final_50ep_std": 0.30144541678658077,
+      "gap_50ep": 16.383791463013132,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repA_ensemble_mean",
+      "rep": "A",
+      "method": "ensemble_mean",
+      "best_step": 60000,
+      "best_10ep": 89.5091603707792,
+      "best_50ep": 89.68984534590618,
+      "best_50ep_std": 3.0525954992744864,
+      "final_50ep": 84.21149054245414,
+      "final_50ep_std": 14.397767129206363,
+      "gap_50ep": 5.478354803452035,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repA_iad_lambda_1.0",
+      "rep": "A",
+      "method": "iad_lambda_1.0",
+      "best_step": 20000,
+      "best_10ep": 87.78042347127071,
+      "best_50ep": 85.56840409771739,
+      "best_50ep_std": 9.309331685606066,
+      "final_50ep": 66.69534012311755,
+      "final_50ep_std": 32.53062285100815,
+      "gap_50ep": 18.873063974599845,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repA_shuffled_iad_lambda_1.0",
+      "rep": "A",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 95000,
+      "best_10ep": 89.34491930680122,
+      "best_50ep": 87.09702206324822,
+      "best_50ep_std": 9.578885568976537,
+      "final_50ep": 86.18600120945257,
+      "final_50ep_std": 10.690013353652578,
+      "gap_50ep": 0.9110208537956481,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repA_standard_iql",
+      "rep": "A",
+      "method": "standard_iql",
+      "best_step": 100000,
+      "best_10ep": 86.59427472811392,
+      "best_50ep": 80.85123901757387,
+      "best_50ep_std": 15.042084168050245,
+      "final_50ep": 80.85123901757387,
+      "final_50ep_std": 15.042084168050245,
+      "gap_50ep": 0.0,
+      "actor_seed": 12345,
+      "batch_seed": 42
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repB_ensemble_mean",
+      "rep": "B",
+      "method": "ensemble_mean",
+      "best_step": 95000,
+      "best_10ep": 87.05539251947299,
+      "best_50ep": 83.87082264894897,
+      "best_50ep_std": 13.999357640982673,
+      "final_50ep": 83.71202287402555,
+      "final_50ep_std": 15.65653454451205,
+      "gap_50ep": 0.15879977492342334,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repB_iad_lambda_1.0",
+      "rep": "B",
+      "method": "iad_lambda_1.0",
+      "best_step": 100000,
+      "best_10ep": 90.54141206568777,
+      "best_50ep": 89.50857364640133,
+      "best_50ep_std": 5.005501592896788,
+      "final_50ep": 89.50857364640133,
+      "final_50ep_std": 5.005501592896788,
+      "gap_50ep": 0.0,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repB_shuffled_iad_lambda_1.0",
+      "rep": "B",
+      "method": "shuffled_iad_lambda_1.0",
+      "best_step": 100000,
+      "best_10ep": 89.58194620855696,
+      "best_50ep": 86.95070199007824,
+      "best_50ep_std": 13.475650029724633,
+      "final_50ep": 86.95070199007824,
+      "final_50ep_std": 13.475650029724633,
+      "gap_50ep": 0.0,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    },
+    {
+      "env": "walker2d-medium-v2",
+      "run_name": "walker_repB_standard_iql",
+      "rep": "B",
+      "method": "standard_iql",
+      "best_step": 100000,
+      "best_10ep": 86.9257749732714,
+      "best_50ep": 82.59353334463113,
+      "best_50ep_std": 13.08438027841462,
+      "final_50ep": 82.59353334463113,
+      "final_50ep_std": 13.08438027841462,
+      "gap_50ep": 0.0,
+      "actor_seed": 54321,
+      "batch_seed": 43
+    }
+  ],
+  "env_method": [
+    {
+      "Env": "halfcheetah",
+      "Method": "standard_iql",
+      "Best 50-ep Mean \u00b1 Std": "47.05 \u00b1 0.11",
+      "Final 50-ep Mean \u00b1 Std": "46.70 \u00b1 0.03",
+      "Best Step Mean": "77500",
+      "N": 2
+    },
+    {
+      "Env": "halfcheetah",
+      "Method": "ensemble_mean",
+      "Best 50-ep Mean \u00b1 Std": "48.84 \u00b1 0.14",
+      "Final 50-ep Mean \u00b1 Std": "48.65 \u00b1 0.40",
+      "Best Step Mean": "70000",
+      "N": 2
+    },
+    {
+      "Env": "halfcheetah",
+      "Method": "iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "48.89 \u00b1 0.05",
+      "Final 50-ep Mean \u00b1 Std": "48.89 \u00b1 0.05",
+      "Best Step Mean": "100000",
+      "N": 2
+    },
+    {
+      "Env": "halfcheetah",
+      "Method": "shuffled_iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "49.08 \u00b1 0.31",
+      "Final 50-ep Mean \u00b1 Std": "48.98 \u00b1 0.44",
+      "Best Step Mean": "87500",
+      "N": 2
+    },
+    {
+      "Env": "hopper",
+      "Method": "standard_iql",
+      "Best 50-ep Mean \u00b1 Std": "46.35 \u00b1 9.27",
+      "Final 50-ep Mean \u00b1 Std": "29.19 \u00b1 8.18",
+      "Best Step Mean": "72500",
+      "N": 2
+    },
+    {
+      "Env": "hopper",
+      "Method": "ensemble_mean",
+      "Best 50-ep Mean \u00b1 Std": "67.58 \u00b1 5.84",
+      "Final 50-ep Mean \u00b1 Std": "46.16 \u00b1 18.50",
+      "Best Step Mean": "70000",
+      "N": 2
+    },
+    {
+      "Env": "hopper",
+      "Method": "iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "62.63 \u00b1 1.48",
+      "Final 50-ep Mean \u00b1 Std": "45.41 \u00b1 14.75",
+      "Best Step Mean": "52500",
+      "N": 2
+    },
+    {
+      "Env": "hopper",
+      "Method": "shuffled_iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "51.27 \u00b1 24.95",
+      "Final 50-ep Mean \u00b1 Std": "37.47 \u00b1 17.55",
+      "Best Step Mean": "65000",
+      "N": 2
+    },
+    {
+      "Env": "walker2d",
+      "Method": "standard_iql",
+      "Best 50-ep Mean \u00b1 Std": "81.72 \u00b1 1.23",
+      "Final 50-ep Mean \u00b1 Std": "81.72 \u00b1 1.23",
+      "Best Step Mean": "100000",
+      "N": 2
+    },
+    {
+      "Env": "walker2d",
+      "Method": "ensemble_mean",
+      "Best 50-ep Mean \u00b1 Std": "86.78 \u00b1 4.11",
+      "Final 50-ep Mean \u00b1 Std": "83.96 \u00b1 0.35",
+      "Best Step Mean": "77500",
+      "N": 2
+    },
+    {
+      "Env": "walker2d",
+      "Method": "iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "87.54 \u00b1 2.79",
+      "Final 50-ep Mean \u00b1 Std": "78.10 \u00b1 16.13",
+      "Best Step Mean": "60000",
+      "N": 2
+    },
+    {
+      "Env": "walker2d",
+      "Method": "shuffled_iad_lambda_1.0",
+      "Best 50-ep Mean \u00b1 Std": "87.02 \u00b1 0.10",
+      "Final 50-ep Mean \u00b1 Std": "86.57 \u00b1 0.54",
+      "Best Step Mean": "97500",
+      "N": 2
+    }
+  ],
+  "comparison": [
+    {
+      "Env": "halfcheetah",
+      "Comparison": "ensemble_mean - standard_iql",
+      "Best 50-ep Delta": 1.7906923172711018,
+      "Final 50-ep Delta": 1.9551782398276103
+    },
+    {
+      "Env": "halfcheetah",
+      "Comparison": "iad_lambda_1.0 - ensemble_mean",
+      "Best 50-ep Delta": 0.04981406685902812,
+      "Final 50-ep Delta": 0.235814598969327
+    },
+    {
+      "Env": "halfcheetah",
+      "Comparison": "iad_lambda_1.0 - shuffled_iad_lambda_1.0",
+      "Best 50-ep Delta": -0.18599462766436403,
+      "Final 50-ep Delta": -0.09078265387464768
+    },
+    {
+      "Env": "hopper",
+      "Comparison": "ensemble_mean - standard_iql",
+      "Best 50-ep Delta": 21.237133211959367,
+      "Final 50-ep Delta": 16.969845715014767
+    },
+    {
+      "Env": "hopper",
+      "Comparison": "iad_lambda_1.0 - ensemble_mean",
+      "Best 50-ep Delta": -4.950027732608234,
+      "Final 50-ep Delta": -0.7434621302335245
+    },
+    {
+      "Env": "hopper",
+      "Comparison": "iad_lambda_1.0 - shuffled_iad_lambda_1.0",
+      "Best 50-ep Delta": 11.358593214409055,
+      "Final 50-ep Delta": 7.942775712820506
+    },
+    {
+      "Env": "walker2d",
+      "Comparison": "ensemble_mean - standard_iql",
+      "Best 50-ep Delta": 5.057947816325068,
+      "Final 50-ep Delta": 2.239370527137339
+    },
+    {
+      "Env": "walker2d",
+      "Comparison": "iad_lambda_1.0 - ensemble_mean",
+      "Best 50-ep Delta": 0.758154874631785,
+      "Final 50-ep Delta": -5.859799823480415
+    },
+    {
+      "Env": "walker2d",
+      "Comparison": "iad_lambda_1.0 - shuffled_iad_lambda_1.0",
+      "Best 50-ep Delta": 0.5146268453961227,
+      "Final 50-ep Delta": -8.466394715005976
+    }
+  ],
+  "replicate": [
+    {
+      "Env": "halfcheetah",
+      "Rep": "A",
+      "Best 50-ep Mean": 48.554133520045596,
+      "Final 50-ep Mean": 48.441373988001516,
+      "Gap Mean": 0.11275953204408751
+    },
+    {
+      "Env": "halfcheetah",
+      "Rep": "B",
+      "Best 50-ep Mean": 48.3722767061685,
+      "Final 50-ep Mean": 48.169186757929175,
+      "Gap Mean": 0.2030899482393238
+    },
+    {
+      "Env": "hopper",
+      "Rep": "A",
+      "Best 50-ep Mean": 64.30364316213104,
+      "Final 50-ep Mean": 49.98138378091952,
+      "Gap Mean": 14.322259381211506
+    },
+    {
+      "Env": "hopper",
+      "Rep": "B",
+      "Best 50-ep Mean": 49.61339410606584,
+      "Final 50-ep Mean": 29.12904116628161,
+      "Gap Mean": 20.484352939784223
+    },
+    {
+      "Env": "walker2d",
+      "Rep": "A",
+      "Best 50-ep Mean": 85.80162763111142,
+      "Final 50-ep Mean": 79.48601772314953,
+      "Gap Mean": 6.315609907961882
+    },
+    {
+      "Env": "walker2d",
+      "Rep": "B",
+      "Best 50-ep Mean": 85.73090790751492,
+      "Final 50-ep Mean": 85.69120796378407,
+      "Gap Mean": 0.039699943730855836
+    }
+  ]
+}

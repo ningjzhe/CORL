@@ -1,0 +1,10 @@
+Env,Comparison,Best 50-ep Delta,Final 50-ep Delta
+halfcheetah,ensemble_mean - standard_iql,1.7906923172711018,1.9551782398276103
+halfcheetah,iad_lambda_1.0 - ensemble_mean,0.04981406685902812,0.235814598969327
+halfcheetah,iad_lambda_1.0 - shuffled_iad_lambda_1.0,-0.18599462766436403,-0.09078265387464768
+hopper,ensemble_mean - standard_iql,21.237133211959367,16.969845715014767
+hopper,iad_lambda_1.0 - ensemble_mean,-4.950027732608234,-0.7434621302335245
+hopper,iad_lambda_1.0 - shuffled_iad_lambda_1.0,11.358593214409055,7.942775712820506
+walker2d,ensemble_mean - standard_iql,5.057947816325068,2.239370527137339
+walker2d,iad_lambda_1.0 - ensemble_mean,0.758154874631785,-5.859799823480415
+walker2d,iad_lambda_1.0 - shuffled_iad_lambda_1.0,0.5146268453961227,-8.466394715005976
